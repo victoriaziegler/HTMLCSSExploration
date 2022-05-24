@@ -1,0 +1,14 @@
+.my-grid {
+    display: grid;
+    grid-template-columns: auto 100px;
+}
+
+.has-blue-background {
+    background-color: #A7DDFF;
+    border: 50px solid #721EE3;
+}
+
+.has-yellow-background {
+    background-color: #c30691;
+    border: 15px solid #E38C1E;
+}
