@@ -1,7 +1,7 @@
 .my-grid {
     display: grid;
     grid-template-columns: auto 1fr;
-    grid-template-rows: auto 100px;
+    grid-template-rows: auto 250px;
 }
 
 .has-blue-background {
